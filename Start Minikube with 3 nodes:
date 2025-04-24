@@ -1,1 +1,2 @@
 minikube start --nodes 3 -p multinode-cluster
+kubectl get nodes
